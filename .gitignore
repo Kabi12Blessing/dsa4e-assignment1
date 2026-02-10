@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+bin/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# macOS junk
+.DS_Store
